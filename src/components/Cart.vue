@@ -42,7 +42,7 @@ export default {
 .product_main {
   padding: 20px;
 }
-.product_main>product-title {
+.product_main>.product-title {
   line-height: 20px;
 }
 .product-cart .product-content>p {
